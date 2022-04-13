@@ -3,7 +3,36 @@ body {
   color: white;
 }
 
+.index-list {
+  background-color: #9494b8;
+}
+
 .description-text {
   color: yellow;
   font-style: italic;
+}
+
+.first-taco-step {
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.third-taco-step {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pancakesimg {
+  width: 600px;
+  height: auto;
+}
+
+.tacosimg {
+  width: 600px;
+  height: auto;
+}
+
+.sushiimg {
+  width: 600px;
+  height: auto;
 }
